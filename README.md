@@ -1,6 +1,6 @@
 ### Eldar Muradov
 
-![](https://komarev.com/ghpvc/?EldarMuradov=EldarMuradov)
+![](https://komarev.com/ghpvc/?username=EldarMuradov)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Architect,+Engineer)](https://git.io/typing-svg)
 
