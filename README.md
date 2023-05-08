@@ -1,5 +1,7 @@
 ### Eldar Muradov
 
+![](https://komarev.com/ghpvc/?EldarMuradov=your-github-username)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Architect,+Engineer)](https://git.io/typing-svg)
 
 <picture>
@@ -10,8 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Engines+developer)](https://git.io/typing-svg)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldarMuradov)](https://github.com/EldarMuradov/github-readme-stats)
 
 
 <!--
