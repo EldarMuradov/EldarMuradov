@@ -1,6 +1,6 @@
 ### Eldar Muradov
 
-![](https://komarev.com/ghpvc/?username=EldarMuradov)
+![](https://komarev.com/ghpvc/?username=EldarMuradov) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Architect,+Engineer)](https://git.io/typing-svg)
 
