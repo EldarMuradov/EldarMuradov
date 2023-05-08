@@ -1,6 +1,10 @@
 ### Eldar Muradov
 
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/UI.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/UI.png">
+ <img alt="Editor" src="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/UI.png">
+</picture>
 
 <!--
 **EldarMuradov/EldarMuradov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
