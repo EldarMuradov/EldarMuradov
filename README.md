@@ -16,3 +16,17 @@
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Engines+developer)](https://git.io/typing-svg)
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/M.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/M.png">
+ <img alt="Editor" src="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/M.png">
+</picture>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+developer)](https://git.io/typing-svg)
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/N.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/N.png">
+ <img alt="Editor" src="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/N.png">
+</picture>
