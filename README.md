@@ -10,9 +10,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Architect,+Engineer)](https://git.io/typing-svg)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/UI.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/UI.png">
- <img alt="Editor" src="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/UI.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/SSAO2.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/SSAO2.png">
+ <img alt="Editor" src="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/SSAO2.png">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Engines+developer)](https://git.io/typing-svg)
