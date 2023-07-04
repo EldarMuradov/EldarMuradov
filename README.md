@@ -22,9 +22,9 @@
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/HOVER2.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/HOVER2.png">
- <img alt="Editor" src="https://github.com/EldarMuradov/ESGSStudioEngine/blob/main/HOVER2.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/GAMEENGINE.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/GAMEENGINE.png">
+ <img alt="Editor" src="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/GAMEENGINE.png">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Engines+developer)](https://git.io/typing-svg)
