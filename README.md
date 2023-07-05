@@ -10,21 +10,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Architect,+Engineer)](https://git.io/typing-svg)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/SNIPPET2.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/SNIPPET2.png">
- <img alt="Editor" src="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/SNIPPET2.png">
+ <source media="(prefers-color-scheme: dark)" srcset="SNIPPET2.png">
+ <source media="(prefers-color-scheme: light)" srcset="SNIPPET2.png">
+ <img alt="Editor" src="SNIPPET2.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/SNIPPET.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/SNIPPET.png">
- <img alt="Editor" src="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/SNIPPET.png">
+ <source media="(prefers-color-scheme: dark)" srcset="SNIPPET.png">
+ <source media="(prefers-color-scheme: light)" srcset="SNIPPET.png">
+ <img alt="Editor" src="SNIPPET.png">
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/GAMEENGINE.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/GAMEENGINE.png">
- <img alt="Editor" src="https://github.com/EldarMuradov/ESGSStudioEngineDX12/blob/ac4624acf50cff4a03dab5d8c225e1cdcc70682f/GAMEENGINE.png">
+ <source media="(prefers-color-scheme: dark)" srcset="GAMEENGINE.png">
+ <source media="(prefers-color-scheme: light)" srcset="GAMEENGINE.png">
+ <img alt="Editor" src="GAMEENGINE.png">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Engines+developer)](https://git.io/typing-svg)
