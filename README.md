@@ -35,7 +35,7 @@
  <img alt="Editor" src="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/M.png">
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mathematician,+System+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=System+Programmer)](https://git.io/typing-svg)
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/N.png">
