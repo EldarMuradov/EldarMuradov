@@ -7,18 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer)](https://git.io/typing-svg)
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="SC12.png">
- <source media="(prefers-color-scheme: light)" srcset="SC12.png">
- <img alt="Editor" src="SC12.png">
-</picture>
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="SC13.png">
- <source media="(prefers-color-scheme: light)" srcset="SC13.png">
- <img alt="Editor" src="SC13.png">
-</picture>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Engines+developer)](https://git.io/typing-svg)
 
 <picture>
