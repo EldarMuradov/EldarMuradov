@@ -19,7 +19,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Engines+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engine+Programmer)](https://git.io/typing-svg)
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EldarMuradov/StrangeBattlegrounds/blob/master/M.png">
