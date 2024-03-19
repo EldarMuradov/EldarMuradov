@@ -10,6 +10,7 @@
 ## With great expertise in:
 - Physics programming. I build PhysX/CUDA-based physics engine and open source library with Rigidbodies, Colliders, GPU physics, GPU Particles, GPU Clothing, Ragdolls, Vehicles etc.
 - Scripting Engine programming. I build .NET 8 and .NET 8 Native AOT scripting host for C++ engine,
+- Graphics programming. I build DirectX 11/12 C++ graphics engine with Ray-tracing, GI, DLSS, FSR, multi-threaded rendering etc. 
 - Memory and Resource management. I have been working with custom linear/stack allocators, resource handles etc.
 - .NET and Back-end programming. I have been working on Game servers, Desktop applications, Web-sites, Real-time applications, 
 - UI, Editor programming and Debugging. I have been working on ImGUI Editor with rich functionality, CPU/GPU Profiling, PhysX visual debugging etc.
