@@ -11,6 +11,7 @@
 - Physics programming. I build PhysX/CUDA-based physics engine and open source library with Rigidbodies, Colliders, GPU physics, GPU Particles, GPU Clothing, Ragdolls, Vehicles etc.
 - Scripting Engine programming. I build .NET 8 and .NET 8 Native AOT scripting host for C++ engine,
 - Memory and Resource management. I have been working with custom linear/stack allocators, resource handles etc.
+- .NET and Back-end programming. I have been working on Game servers, Desktop applications, Web-sites, Real-time applications, 
 - UI, Editor programming and Debugging. I have been working on ImGUI Editor with rich functionality, CPU/GPU Profiling, PhysX visual debugging etc.
 - Multi-threaded programming. I build custom Job System and Thread pools with tasks, coroutines, async operation, priority management,
 - 3D Math, Physics, Applied Math, Computer Science.
