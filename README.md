@@ -8,6 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engine+Programmer)](https://git.io/typing-svg)
 
 ## With great expertise in:
+- Gameplay programming. I've been working on AAA titles, which community consists of more than +400M players,
 - Physics programming. I build PhysX/CUDA-based physics engine and open source library with Rigidbodies, Colliders, GPU physics, GPU Particles, GPU Clothing, Fluid Physics, Blast Physics Destructions, Ragdolls, Vehicles etc.
 - Scripting Engine programming. I build .NET 8 and .NET 8 Native AOT scripting host for C++ engine,
 - Graphics programming. I build DirectX 11/12 C++ graphics engine with Ray-tracing, GI, DLSS, FSR, multi-threaded rendering etc. 
