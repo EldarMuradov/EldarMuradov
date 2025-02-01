@@ -8,15 +8,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engine+Programmer)](https://git.io/typing-svg)
 
 ## With great expertise in:
-- Gameplay programming. I've been working on AAA-titles (shooters and sport simulators), which community consist of more than +400M players. I worked on Motion Matching, Locomotion, Gameplay Ability Systems, Movement, Game Mechanics, Multiplayer etc. 
-- Physics programming. I build PhysX/CUDA-based physics engine and open source library with Rigidbodies, Colliders, GPU physics, GPU Particles, GPU Clothing, Fluid Physics, Blast Physics Destructions, Ragdolls, Vehicles etc.
-- Scripting Engine programming. I build .NET 8 and .NET 8 Native AOT scripting host for C++ engine,
-- Graphics programming. I build DirectX 11/12 C++ graphics engine with Ray-tracing, GI, DLSS 3.5 / FSR 2.0 support, physically-based rendering etc. 
-- Memory and Resource management. I have been working with custom linear/stack allocators, resource handles etc.
-- .NET and Back-end programming. I have been working on Game servers, Desktop applications, Web-sites, Real-time applications, 
-- UI, Editor programming and Debugging. I have been working on ImGUI Editor with rich functionality, CPU/GPU Profiling, PhysX visual debugging etc.
-- Multi-threaded programming. I build custom Job System and Thread pools with tasks, coroutines, async operation, priority management,
-- 3D Math, Physics, Applied Math, Computer Science.
+- Gameplay and Engine programming. I've been working on AAA-titles (shooters and sport simulators), which community consist of more than +400M players. I worked on motion matching, locomotion, gameplay ability systems, movement, game mechanics, multiplayer etc. 
+- Physics programming. I build physics engine, PhysX-based engine and open source library with rigidbodies, colliders, GPU physics, GPU particles, GPU clothing, soft bodies, fluid physics, blast physics destructions, ragdolls, vehicles etc.
+- Scripting Engine programming. I build .NET 8 and .NET 8 Native AOT scripting host for C++ engine with Mono and HostFXR support,
+- .NET and back-end programming. I have been working on game backend server-side, real-time applications, 
+- UI, editor programming and debugging. I have been working on game engine editor with rich functionality, CPU/GPU profiling, PhysX visual debugging etc.
+- 3D math, physics, applied math, computer science. 
 
 # Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradov&repo=EraEngine)](https://github.com/EldarMuradov/EraEngine)
