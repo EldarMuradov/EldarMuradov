@@ -8,11 +8,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engine+Programmer)](https://git.io/typing-svg)
 
 ## With great expertise in:
-- Gameplay and Engine programming. I've been working on AAA-titles (shooters and sport simulators), which community consist of more than +400M players. I worked on motion matching, locomotion, gameplay ability systems, movement, game mechanics, multiplayer etc. 
+- Gameplay and Engine programming. I've been working on AAA-titles (shooters and sport simulators), which community consist of more than +400M players. I worked on motion matching, locomotion, gameplay ability systems, movement, game mechanics, game engines, multiplayer etc. 
 - Physics programming. I build physics engine, PhysX-based engine and open source library with rigidbodies, colliders, GPU physics, GPU particles, GPU clothing, soft bodies, fluid physics, blast physics destructions, ragdolls, vehicles etc.
 - Scripting Engine programming. I build .NET 8 and .NET 8 Native AOT scripting host for C++ engine with Mono and HostFXR support,
 - .NET and back-end programming. I have been working on game backend server-side, real-time applications, 
-- UI, editor programming and debugging. I have been working on game engine editor with rich functionality, CPU/GPU profiling, PhysX visual debugging etc.
+- UI, editor programming. I have been working on game engine editor with rich functionality, CPU/GPU profiling, PhysX visual debugging etc.
 - 3D math, physics, applied math, computer science. 
 
 # Repos
