@@ -5,14 +5,14 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engine+Programmer)](https://git.io/typing-svg)
+## Engine Programmer | Physics Programmer 
 
-## With great expertise in:
-- Gameplay and Engine programming. I've been working on AAA-titles (shooters and sport simulators), which community consist of more than +400M players. I worked on motion matching, locomotion, gameplay ability systems, movement, game mechanics, game engines, multiplayer etc. 
+With great expertise in:
+- Gameplay and Engine programming. I've been working on AAA-titles (shooters and sport simulators), which community consist of more than +400M players. I worked on motion matching, locomotion, gameplay ability systems, movement, game mechanics, game engines, multiplayer etc.
 - Physics programming. I build physics engine, PhysX-based engine and open source library with rigidbodies, colliders, GPU physics, GPU particles, GPU clothing, soft bodies, fluid physics, blast physics destructions, ragdolls, vehicles etc.
+- Autotesting infrastructure. I build cross-platform gameplay tests infrastructure that runs nightly on desktop and mobile devices with performance reports generation, analytics, result deployment, network metrics, graphs, built-in bundle certifitaces resigning and stability verification, 
 - Scripting Engine programming. I build .NET 8 and .NET 8 Native AOT scripting host for C++ engine with Mono and HostFXR support,
 - .NET and back-end programming. I have been working on game backend server-side, real-time applications, 
-- UI, editor programming. I have been working on game engine editor with rich functionality, CPU/GPU profiling, PhysX visual debugging etc.
 - 3D math, physics, applied math, computer science. 
 
 # Repos
