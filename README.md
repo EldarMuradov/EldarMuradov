@@ -10,7 +10,7 @@
 With great expertise in:
 - Gameplay and Engine programming. I've been working on AAA-titles (shooters and sport simulators), which community consist of more than +400M players. I worked on motion matching, locomotion, gameplay ability systems, movement, game mechanics, game engines, multiplayer etc.
 - Physics programming. I built physics engine, PhysX-based engine and open source library with rigidbodies, colliders, GPU physics, GPU particles, GPU clothing, soft bodies, fluid physics, blast physics destructions, ragdolls, vehicles etc.
-- Autotesting infrastructure. I built cross-platform gameplay tests infrastructure that runs nightly on desktop and mobile devices with performance reports generation, analytics, result deployment, network metrics, graphs, built-in bundle certifitaces resigning and stability verification, 
+- Autotesting infrastructure. I built cross-platform gameplay tests infrastructure that runs nightly on desktop and mobile devices with performance reports generation, analytics, results deployment, network metrics, graphs, built-in bundle certifitaces resigning and stability verification, 
 - Scripting Engine programming. I built .NET 8 and .NET 8 Native AOT scripting host for C++ engine with Mono and HostFXR support,
 - .NET and back-end programming. I have been working on game backend server-side, real-time applications, 
 - 3D math, physics, applied math, computer science. 
