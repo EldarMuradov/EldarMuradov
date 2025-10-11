@@ -7,10 +7,10 @@
 
 ## Senior Core Engine / Physics Software Engineer 
 
-I'm working on game engines, physics, gameplay, movement, animations, tools, network, assets systems and more. 
+I'm working on game engines, physics, gameplay, motion matching, movement, animations, tools, network, assets systems and more. 
 
 With great expertise in:
-- Game Engine and Gameplay development. I've worked on AAA-level titles (shooters and sports simulators) with community of over 400 million players. I've worked on motion matching, locomotion, gameplay ability systems, movement, gameplay mechanics, gameplay systems, game engines, multiplayer, asset systems, engine editor, physics, cutscene system, network replications, multiplayer, dlc system, predictions and more.
+- Game Engine and Gameplay development. I've worked on AAA-level titles (shooters and sports simulators) with community of over 400 million players. I've worked on motion matching (Kd-tree, HNSW based), locomotion, gameplay ability systems, movement, gameplay mechanics, gameplay systems, game engines, multiplayer, asset systems, engine editor, physics, cutscene system, network replications, multiplayer, dlc system, predictions and more.
 - Physics. I worked on fluid physics, dynamic physical animations (that is used in replays, highlights system, gameplay movement, humanoid physical contest etc), destruction physics with real-time fracturing, ragdolls, vehicles, etc. I have created a custom physics engine, PhysX-based physics engines (integrated into ecs-based game engine) and an open source library with rigidbodies, colliders, GPU physics, GPU particles, GPU clothing, soft bodies and more. 
 - Autotesting infrastructure. I have created a cross-platform gameplay test infrastructure that runs nightly on desktops and mobile devices with performance reports generation, analytics, results deployment, network metrics, graphs, embedded package certificates, and stability checks, 
 - Scripting Engine. I created .NET 8 and .NET 8 Native AOT host for the C++ engine with Mono and HostFXR support, I also created a plug-in system with reflection and modules where you can create your own and configure deployment rules or dependencies,
