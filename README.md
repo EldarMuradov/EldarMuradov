@@ -16,7 +16,7 @@ I've been working on:
 - Autotesting infrastructure. I have created a cross-platform gameplay test infrastructure that runs nightly on desktops and mobile devices with performance reports generation, analytics, results deployment, network metrics, graphs, embedded package certificates, and stability checks. 
 
 
-# epos
+# Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradov&repo=EraEngine)](https://github.com/EldarMuradov/EraEngine)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EldarMuradov&repo=OpenPS)](https://github.com/EldarMuradov/OpenPS)
